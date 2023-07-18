@@ -1,0 +1,23 @@
+-------------------------------------------
+
+Agent P1 plays TEST3
+
+
+    0 1 2 
+    - - - 
+ 0| 0 0 b 
+ 1| 1 1 1 
+ 2| 1 m 1 
+
+Start!
+Final map
+
+    0 1 2 
+    - - - 
+ 0| 0 0 b 
+ 1| 1 1 1 
+ 2| 1 - ? 
+
+
+Result: Agent dead: found mine
+

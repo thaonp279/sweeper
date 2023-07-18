@@ -1,0 +1,23 @@
+-------------------------------------------
+
+Agent P2 plays TEST4
+
+
+    0 1 2 
+    - - - 
+ 0| 0 1 m 
+ 1| 0 2 2 
+ 2| b 1 m 
+
+Start!
+Final map
+
+    0 1 2 
+    - - - 
+ 0| 0 1 ? 
+ 1| 0 2 ? 
+ 2| b 1 ? 
+
+
+Result: Agent not terminated
+

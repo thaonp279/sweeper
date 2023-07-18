@@ -1,0 +1,23 @@
+-------------------------------------------
+
+Agent P2 plays TEST2
+
+
+    0 1 2 
+    - - - 
+ 0| 2 m m 
+ 1| m 5 m 
+ 2| b b m 
+
+Start!
+Final map
+
+    0 1 2 
+    - - - 
+ 0| 2 * * 
+ 1| * 5 * 
+ 2| b b * 
+
+
+Result: Agent alive: all solved
+
